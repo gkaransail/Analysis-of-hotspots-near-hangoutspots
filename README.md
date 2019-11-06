@@ -10,7 +10,7 @@ YouTube Video:  [Link](https://youtu.be/dgF2n3G76yk)
 
 ##### The purpose of this project is to visually display a list of venues within a certain radius along with its review, provided a particular event location by the user from any part of the world
 
-The live data retrieved from Eventsbrite API
+The live data retrieved from Eventbrite API
 - *List of Events in a given location*
 - *Latitudes and Longitudes of the particular event location*
 
@@ -27,12 +27,12 @@ The data are obtained from the respective API's provide us the necessary base to
 ---
 
 ## References
-- Source code was adapted from [Introduction to the Eventsbrite platform](https://www.eventbrite.com/platform/docs/introduction)
+- Source code was adapted from [Introduction to the Eventbrite platform](https://www.eventbrite.com/platform/docs/introduction)
 *, 
 [A breif guide to using Foursquare API](https://medium.com/@aboutiana/a-brief-guide-to-using-foursquare-api-with-a-hands-on-example-on-python-6fc4d5451203)
 ,*
 [Google Places API Documentation](https://developers.google.com/places/web-service/details)
-- The code retrieves data from [Eventsbrite](https://www.eventbrite.com/)
+- The code retrieves data from [Eventbrite](https://www.eventbrite.com/)
 *,
 [Foursquare](https://foursquare.com/)
 ,*
@@ -56,7 +56,7 @@ There are some general library requirements for the project and some of which ar
 - *spacy*
 - *gensim*
 - *WordCloud*
-- *API keys for events from Eventsbrite, hangout spots from Foursquare and place location API from Google;*
+- *API keys for events from Eventbrite, hangout spots from Foursquare and place location API from Google;*
 
 **NOTE**:  It is recommended to use Anaconda distribution of Python.
 
